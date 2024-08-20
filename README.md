@@ -1,1 +1,1 @@
-# SudokuSolver
+# NoriNori Solver
